@@ -12,8 +12,10 @@
     </a>
   </div>
 </div>
-<h1 align="center">Hi 👋, I'm Dat Nguyen</h1>
-<h3 align="center">I'm developer about website and application</h3>
+
+- 👋 Hi, I’m Dat Nguyen
+- 💼 I'm a third-year student at Ton Duc Thang University.
+- 👨‍💻 I'm developer about website and application.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=datnguyxn&label=Profile%20views&color=0e75b6&style=flat" alt="datnguyxn" /> </p>
 
