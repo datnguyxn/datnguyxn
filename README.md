@@ -19,7 +19,6 @@
 
 <h2> Connect to me <img src = "https://media1.giphy.com/media/MXX2jE0MChtYl1AgBe/giphy.gif?cid=ecf05e47a6sfleqa9l3s4fowccchkp2sskv9jixsufxro9tq&ep=v1_gifs_search&rid=giphy.gif&ct=g" width = 32px> </h2>
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/datnguyxn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dat nguyen" height="30" width="40" /></a>
 <a href="https://fb.com/datnguyxxn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="trong dat" height="30" width="40" /></a>
