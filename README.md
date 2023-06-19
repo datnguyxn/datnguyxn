@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media2.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif?cid=ecf05e47snl6i7oxusnr2zlrs8udbfhb8k8nldegxvj1y9hs&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="100"/>
+  <img src="https://media2.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif?cid=ecf05e47snl6i7oxusnr2zlrs8udbfhb8k8nldegxvj1y9hs&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="500"/>
   <div style="text-align: center;">
         <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=E3F7F6&center=true&vCenter=true&width=600&lines=Hi+I'm+Dat+Nguyen;I'm+a+junior+developer;Backend+Engineer;Freelancer" alt="Headline" />
   </div>
