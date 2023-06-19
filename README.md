@@ -17,7 +17,7 @@
 - 💼 I'm a third-year student at Ton Duc Thang University.
 - 👨‍💻 I'm a developer of websites and applications.
 
-<h2> Connect to me <img src = "https://media1.giphy.com/media/MXX2jE0MChtYl1AgBe/giphy.gif?cid=ecf05e47a6sfleqa9l3s4fowccchkp2sskv9jixsufxro9tq&ep=v1_gifs_search&rid=giphy.gif&ct=g" width = 32px> </h2>
+<h2> 👨‍💻 My Social Network <img src = "https://media1.giphy.com/media/MXX2jE0MChtYl1AgBe/giphy.gif?cid=ecf05e47a6sfleqa9l3s4fowccchkp2sskv9jixsufxro9tq&ep=v1_gifs_search&rid=giphy.gif&ct=g" width = 32px> </h2>
 
 <p align="left">
 <a href="https://linkedin.com/in/datnguyxn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dat nguyen" height="30" width="40" /></a>
