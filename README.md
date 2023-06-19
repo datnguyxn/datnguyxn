@@ -1,3 +1,17 @@
+<div id="header" align="center">
+  <img src="https://media2.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif?cid=ecf05e47snl6i7oxusnr2zlrs8udbfhb8k8nldegxvj1y9hs&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="100"/>
+  <div align=center>
+        <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there+I'm+Alfiee+%F0%9F%91%8B;I'm+Sophomore+Student;Front-End+Engineer;Problem+Solver;Freelancer;Open-Source+Enthusiast" alt="Headline" />
+  </div>
+  <div id="badges">
+    <a href="https://www.linkedin.com/in/datnguyxn/">
+      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
+    <a href="mailto:datnguyen.dev1108@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Mail Contact"/>
+    </a>
+  </div>
+</div>
 <h1 align="center">Hi 👋, I'm Dat Nguyen</h1>
 <h3 align="center">I'm developer about website and application</h3>
 
