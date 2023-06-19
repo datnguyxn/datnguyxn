@@ -24,7 +24,6 @@
 <a href="https://linkedin.com/in/datnguyxn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dat nguyen" height="30" width="40" /></a>
 <a href="https://fb.com/datnguyxxn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="trong dat" height="30" width="40" /></a>
 <a href="https://instagram.com/dat.nguyxn_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dat.nguyxn_" height="30" width="40" /></a>
-<a href="https://discord.gg/710728100228366397" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="2759" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
