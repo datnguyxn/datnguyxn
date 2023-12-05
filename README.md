@@ -64,7 +64,6 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=datnguyxn&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=datnguyxn&theme=algolia" alt="datnguyxn" /></p>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
