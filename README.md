@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGprNTBndnV6bzY0ZHhpZnpvaWZoZTlzMTU2bzhreW52bXowYmx3cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HzPtbOKyBoBFsK4hyc/giphy.gif" width="300"/>
   
-  <h1>Hi, I'm Dat Nguyen ✌️</h1>
+  <h1>Hi, I'm Dat Nguyen</h1>
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=DBE2D3&center=true&vCenter=true&width=600&lines=Fresher+Software+Developer;Backend+Engineer;Technology+Enthusiast" alt="Headline" />
   
   <div id="badges">
