@@ -18,7 +18,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a **senior Computer Science student** with a passion for software development, problem-solving, and backend engineering. My goal is to leverage my programming skills and understanding of software development processes to create innovative solutions and contribute to modern technology.
+I'm a **senior Computer Science student** passionate about using my strong programming abilities, new knowledge acquisition, and in-depth knowledge of software development processes to innovate technology and create solutions new law. Dedicated to contributing to cutting-edge projects and driving technological advancement through a collaborative and agile approach.
 
 ---
 
@@ -60,9 +60,8 @@ I'm a **senior Computer Science student** with a passion for software developmen
 
 ## 📊 GitHub Stats
 
-<p align="center">
+<p align="">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=datnguyxn&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <br>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=datnguyxn&layout=compact&langs_count=8&theme=algolia"/>
 </p>
 
